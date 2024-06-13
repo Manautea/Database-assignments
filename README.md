@@ -11,6 +11,6 @@ Requirements:
 
 # 3. Ask Away
 Requirements:
-- Formulate 2 questions about the dta
+- Formulate 2 questions about the data
 - Write basic SQL queries (WHERE, ORDER BY) to find answers.
 - Share what you've learned from the answers.
