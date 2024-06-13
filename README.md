@@ -1,7 +1,7 @@
 # 1. Data Dive
-- Picked the dataset Netflix Shows
-- While importing the dataset, I noticed that some of the fields were missing an entry and yet there was no error response upon executing the query. 
-- I faced the challenge of not being able to import all the data, only managing to import a hundred.
+Requirements:
+-	Pick your dataset and click to download (Social Media Users, Netflix Shows, or Human Stampedes).
+-	Briefly explain any difficulties and 1 interesting thing you noticed about your chosen dataset.
 
 # 2. Data Fun
 Requirements:
